@@ -1,11 +1,12 @@
 #-------------------------------------------------------------------------------
 # Name:        TaiwanNewspaper_Crawler.py
+# Date:        2015/10/30
 # Author:      k1tten
-# Email:       realever15@gmail.com
+# E-mail:      realever15@gmail.com
 # Github:      https://github.com/realever32/TaiwanNewspaper_WebCrawler
-# Created:     2015/10/29
-# Purpose:     To Practice How To Use Python Create A WebCrawler
+# Purpose:     This Is Use To Practice How To Use Python To Create A WebCrawler.
 #-------------------------------------------------------------------------------
+
 def main():
     import time
     import requests
