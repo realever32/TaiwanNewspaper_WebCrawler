@@ -2,6 +2,7 @@
 # Name:        TaiwanNewspaper_Crawler.py
 # Author:      k1tten
 # Email:       realever15@gmail.com
+# Github:      https://github.com/realever32/TaiwanNewspaper_WebCrawler
 # Created:     2015/10/29
 # Purpose:     To Practice How To Use Python Create A WebCrawler
 #-------------------------------------------------------------------------------
