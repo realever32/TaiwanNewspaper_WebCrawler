@@ -3,7 +3,7 @@
 # Author:      k1tten
 # Email:       realever15@gmail.com
 # Created:     2015/10/29
-# Purpose:     To Practice How To Use Python Create A WebCrawler.
+# Purpose:     To Practice How To Use Python Create A WebCrawler
 #-------------------------------------------------------------------------------
 def main():
     import time
